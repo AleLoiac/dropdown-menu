@@ -1,5 +1,19 @@
+@font-face {
+  font-family: "Satoshi";
+  src:
+    url("./assets/font/Satoshi-Regular.woff2") format("woff2"),
+    url("./assets/font/Satoshi-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --element-background: blanchedalmond;
+}
+
+.dropdown-menu {
+  font-family: "Satoshi";
 }
 
 .dropdown-element {
