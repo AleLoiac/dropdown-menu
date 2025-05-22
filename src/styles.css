@@ -10,10 +10,12 @@
 
 :root {
   --element-background: blanchedalmond;
+  --border: darksalmon;
 }
 
 .dropdown-menu {
   font-family: "Satoshi";
+  text-align: center;
 }
 
 .dropdown-element {
@@ -27,4 +29,18 @@
 
 .dropdown-element:hover {
   cursor: pointer;
+}
+
+.entry-container {
+  display: inline-block;
+  margin-top: 2px;
+}
+
+.drop-entry {
+  background-color: var(--element-background);
+  padding: 3px;
+}
+
+.drop-entry:not(:last-child) {
+  border-bottom: 1px solid var(--border);
 }
