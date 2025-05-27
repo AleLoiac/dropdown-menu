@@ -50,3 +50,7 @@
 .drop-entry:not(:last-child) {
   border-bottom: 1px solid var(--border);
 }
+
+.invisible {
+  display: none;
+}
