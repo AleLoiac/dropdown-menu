@@ -1,0 +1,19 @@
+{
+  "name": "simple-dropdown-toggle",
+  "version": "1.0.0",
+  "description": "Simple function to toggle the visibility of a dropdown entry",
+  "main": "toggle-dropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleLoiac/dropdown-menu.git"
+  },
+  "author": "Alessandro Loiac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleLoiac/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/AleLoiac/dropdown-menu"
+}
