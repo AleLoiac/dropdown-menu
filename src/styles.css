@@ -25,6 +25,7 @@
   margin: 0;
   padding: 4px;
   border: none;
+  position: relative;
 }
 
 .dropdown-element:hover {
@@ -34,6 +35,11 @@
 .entry-container {
   display: inline-block;
   margin-top: 2px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-inline: auto;
+  width: fit-content;
 }
 
 .drop-entry {
