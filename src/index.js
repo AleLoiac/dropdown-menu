@@ -1,5 +1,5 @@
 import "./modern-normalize.css";
-import { toggleDropdown } from "./modules/toggle-dropdown";
+import { toggleDropdown } from "../modules/toggle-dropdown";
 import "./styles.css";
 
 const dropdownElement = document.querySelector(".dropdown-element");
