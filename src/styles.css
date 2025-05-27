@@ -45,10 +45,15 @@
 .drop-entry {
   background-color: var(--element-background);
   padding: 3px;
+  position: relative;
 }
 
 .drop-entry:not(:last-child) {
-  border-bottom: 1px solid var(--border);
+  margin-bottom: 1px;
+}
+
+.drop-entry:hover {
+  left: 3px;
 }
 
 .invisible {
