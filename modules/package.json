@@ -1,5 +1,5 @@
 {
-  "name": "simple-dropdown-toggle",
+  "name": "@aleloiac/simple-dropdown-toggle",
   "version": "1.0.0",
   "description": "Simple function to toggle the visibility of a dropdown entry",
   "main": "toggle-dropdown.js",
