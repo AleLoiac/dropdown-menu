@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AleLoiac/dropdown-menu/issues"
   },
-  "homepage": "https://github.com/AleLoiac/dropdown-menu"
+  "homepage": "https://github.com/AleLoiac/dropdown-menu",
+  "publishConfig": {
+    "access": "public"
+  }
 }
